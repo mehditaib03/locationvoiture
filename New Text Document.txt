@@ -1,0 +1,11 @@
+Liste des Voitures (GET /api/cars) : Retourne une liste de toutes les voitures
+disponibles.
+● Détails d'une Voiture (GET /api/cars/{id}) : Fournit les détails d'une voiture spécifique.
+● Création de Réservation (POST /api/reservations) : Permet aux utilisateurs de créer
+une nouvelle réservation.
+● Affichage des Réservations d'un Utilisateur (GET /api/users/{id}/reservations) :
+Permet à un utilisateur de consulter ses propres réservations.
+● Modification de Réservation (PUT /api/reservations/{id}) : Permet aux utilisateurs de
+modifier une réservation existante.
+● Annulation de Réservation (DELETE /api/reservations/{id}) : Permet d'annuler une
+réservation existante.
